@@ -3,6 +3,8 @@ import dbConnect from '@/lib/mongodb'
 import Donation from '@/models/Donation'
 import { getSession } from '@/lib/auth'
 
+export const dynamic = 'force-dynamic'
+
 // SECURITY: Escape special regex characters to prevent ReDoS attacks
 function escapeRegex(str: string): string {
     return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')

@@ -3,6 +3,8 @@ import dbConnect from '@/lib/mongodb'
 import Opinion from '@/models/Opinion'
 import { getSession } from '@/lib/auth'
 
+export const dynamic = 'force-dynamic'
+
 export async function GET() {
     try {
         // SECURITY: Require admin authentication for viewing stats

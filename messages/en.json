@@ -1,0 +1,193 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "opinion": "Share Opinion",
+        "priorities": "Priorities",
+        "donate": "Donate",
+        "contact": "Contact"
+    },
+    "hero": {
+        "badge": "Inquilab Zindabad",
+        "catchy": "People are Power",
+        "tagline": "Your Voice, Our Commitment",
+        "subtitle": "Dedicated to serving the people - Your opinion guides our path",
+        "cta": "Share Your Opinion",
+        "secondary": "Learn About Us"
+    },
+    "about": {
+        "title": "About the Leader",
+        "name": "Md. Abdul Karim",
+        "position": "Visionary Political Leader & Social Advocate",
+        "constituency": "Dhaka-10 Constituency",
+        "bio": "Dedicated to community service for over 20 years. Committed to ensuring education, healthcare, and employment opportunities. Working for the welfare of the people is my life's mission.",
+        "vision": "My Vision",
+        "visionText": "To build a well-educated, healthy, and prosperous community where every person can live with dignity."
+    },
+    "opinion": {
+        "title": "Your opinions will help shape our national development strategy.",
+        "subtitle": "Tell us about your area's problems and proposed solutions",
+        "name": "Your Name",
+        "area": "Area Name",
+        "phone": "Mobile Number (Optional)",
+        "message": "Write Your Opinion",
+        "placeholder": "Write about your area's problems, development proposals, or any feedback here...",
+        "submit": "Submit Opinion",
+        "success": "Thank you!",
+        "successDesc": "Your opinion has been successfully submitted.",
+        "trust1": "100% Confidential",
+        "trust2": "Every Voice Matters",
+        "trust3": "Direct Impact"
+    },
+    "captcha": {
+        "title": "Verification",
+        "prompt": "Please solve this simple math",
+        "error": "Wrong answer! Try again.",
+        "placeholder": "Answer",
+        "newQuestion": "New question",
+        "submit": "Submit"
+    },
+    "focus": {
+        "title": "Our Priorities",
+        "subtitle": "Our 13-point action plan for the development of Meherpur",
+        "education": "Quality Education & Skill Development",
+        "educationDesc": "Increasing literacy rate, setting up digital classrooms & ICT labs, emphasizing technical education, and establishing Meherpur University.",
+        "health": "Ensuring Modern Healthcare",
+        "healthDesc": "Modern medical equipment in health centers, adequate doctors & medicine supply, maternal & child healthcare, and special initiatives for the elderly & poor.",
+        "agriculture": "Fair Price & Farmers' Rights",
+        "agricultureDesc": "Ensuring fair prices for crops. Ensuring fertilizer, seeds & irrigation, making agricultural loans accessible, and encouraging modern agricultural technology.",
+        "youth": "Youth Employment & Entrepreneurship",
+        "youthDesc": "Establishing local SME industries, launching startup funds, and providing easy bank loans to train youth and create entrepreneurs.",
+        "women": "Women's Development & Employment",
+        "womenDesc": "Special training programs for women, micro-credit support, and special industrial incentives for women entrepreneurs.",
+        "transport": "Rail & Transport Development",
+        "transportDesc": "Initiative to introduce rail communication via Gangni, development of regional roads & highways, construction of bridges/culverts, and modernization of rural roads.",
+        "industry": "Industry Establishment",
+        "industryDesc": "Establishing mango, jute & agro-based industries, special economic zones, and incentives for local industrial entrepreneurs.",
+        "drugs": "Drug Control & Social Security",
+        "drugsDesc": "Strict law enforcement to eliminate drugs, increasing awareness, and engaging youth in sports & culture.",
+        "culture": "Tourism & Culture Development",
+        "cultureDesc": "Upgrading Meherpur's tourism to international standards, promoting folk music and Meherpur's heritage globally.",
+        "governance": "Anti-Corruption & Good Governance",
+        "governanceDesc": "Transparency in administration, protection of people's rights, and zero tolerance policy against corruption.",
+        "environment": "Environment Conservation & Greening",
+        "environmentDesc": "Excavation & restoration of rivers/canals, tree planting, and use of eco-friendly agricultural technology.",
+        "sports": "Sports & Youth Development",
+        "sportsDesc": "Preserving playgrounds in every union, building sports complexes, and engaging youth in sports & cultural activities to keep them drug-free.",
+        "parliament": "Meherpur Parliament Formation",
+        "parliamentDesc": "Forming 'Meherpur Parliament' with representatives of all parties to ensure transparency and protect Meherpur's interests."
+    },
+    "stats": {
+        "title": "Public Participation",
+        "opinions": "Opinions Received",
+        "areas": "Areas Covered",
+        "supporters": "Supporters",
+        "years": "Years of Service"
+    },
+    "voices": {
+        "title": "Community Voices",
+        "subtitle": "Your opinions inspire us"
+    },
+    "poll": {
+        "title": "Quick Poll",
+        "question": "What is the most important issue in your area?",
+        "vote": "Submit",
+        "voted": "Thank you! Your feedback has been recorded."
+    },
+    "footer": {
+        "rights": "All Rights Reserved",
+        "contact": "Contact",
+        "address": "Address",
+        "email": "Email",
+        "phone": "Phone",
+        "social": "Social Media",
+        "privacy": "Your information will be kept completely confidential"
+    },
+    "donate": {
+        "title": "Your Support is Needed",
+        "subtitle": "Contribute to serving the people",
+        "trust": {
+            "secure": "Secure Payment",
+            "receipt": "Instant Receipt",
+            "transparent": "Transparent Accounting"
+        },
+        "paymentDetails": {
+            "title": "Payment Details",
+            "instruction": "Make your donation using any of the following methods",
+            "bankTitle": "Bank Account",
+            "mobileTitle": "Mobile Banking",
+            "accountNumber": "Account Number",
+            "accountName": "Account Name",
+            "branch": "Branch",
+            "bank": "Bank",
+            "personalBkashNagad": "Personal Bkash & Nagad",
+            "merchantBkash": "Merchant Bkash"
+        },
+        "form": {
+            "registerTitle": "Register Your Donation",
+            "registerSubtitle": "After making payment, fill out this form to register your donation",
+            "name": "Your Name",
+            "namePlaceholder": "Enter your name",
+            "email": "Email",
+            "emailPlaceholder": "example@email.com",
+            "selectAmount": "Select Amount",
+            "customAmount": "Or enter custom amount",
+            "customPlaceholder": "Enter amount",
+            "paymentReference": "Payment Reference/Transaction ID (Optional)",
+            "paymentReferencePlaceholder": "Enter transaction ID or reference number",
+            "paymentReferenceHint": "If you've already made payment, enter the transaction ID here",
+            "yourDonation": "Your Donation",
+            "processing": "Processing...",
+            "submit": "Register Donation",
+            "note": "Your donation will be verified by our team",
+            "anonymous": "Keep my name private (Anonymous)"
+        },
+        "error": {
+            "nameRequired": "Name is required",
+            "emailRequired": "Email is required",
+            "emailInvalid": "Please enter a valid email",
+            "amountMin": "Minimum donation is ৳10"
+        },
+        "success": {
+            "badge": "Success",
+            "title": "Thank You for Your Donation!",
+            "messageRegistered": "Your donation has been registered successfully. Our team will verify your payment soon.",
+            "referenceId": "Reference ID",
+            "nextSteps": "Next Steps",
+            "step1": "Make your payment using the bank account or mobile banking details provided",
+            "step2": "Keep your transaction ID/reference number safe",
+            "step3": "Our team will verify and confirm your donation within 24-48 hours",
+            "goHome": "Go to Homepage",
+            "donateAgain": "Donate Again"
+        },
+        "cancel": {
+            "badge": "Cancelled",
+            "title": "Payment Cancelled",
+            "message": "Your payment was not completed. Don't worry, no money has been charged.",
+            "whatHappened": "What Happened?",
+            "point1": "You cancelled the payment process",
+            "point2": "Payment session has expired",
+            "point3": "A technical issue occurred"
+        }
+    },
+    "welcome": {
+        "title": "Welcome",
+        "subtitle": "Thank you for visiting"
+    },
+    "videos": {
+        "title": "Videos",
+        "subtitle": "Watch our latest updates"
+    },
+    "gallery": {
+        "title": "Photo Gallery",
+        "subtitle": "Moments from our journey"
+    },
+    "candidate": {
+        "title": "Meet the Leader",
+        "subtitle": "Learn about our vision"
+    },
+    "community": {
+        "title": "Community Stats",
+        "subtitle": "Our growing community"
+    }
+}
